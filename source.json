@@ -1,0 +1,19 @@
+{
+    "name":"simplicity Packages",
+    "id":"club.simplicityvr.public-packages",
+    "url":"https://packages.simplicityvr.club/index.json",
+    "author":{
+        "email":"contact@simplicityvr.com",
+        "name":"simplicity",
+        "url":"https://simplicityvr.club/discord"
+    },
+    "description":"Public VRChat components",
+    "infoLink":{
+        "url":"http://github.com/simplicityvrc/packages",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "simplicityvrc/PosterManager"
+    ]
+}
